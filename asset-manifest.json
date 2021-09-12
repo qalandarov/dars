@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dars/static/css/main.a617e044.chunk.css",
+    "main.js": "/dars/static/js/main.435c53d4.chunk.js",
+    "main.js.map": "/dars/static/js/main.435c53d4.chunk.js.map",
+    "runtime-main.js": "/dars/static/js/runtime-main.e636067f.js",
+    "runtime-main.js.map": "/dars/static/js/runtime-main.e636067f.js.map",
+    "static/js/2.a7b77514.chunk.js": "/dars/static/js/2.a7b77514.chunk.js",
+    "static/js/2.a7b77514.chunk.js.map": "/dars/static/js/2.a7b77514.chunk.js.map",
+    "static/js/3.421a8d86.chunk.js": "/dars/static/js/3.421a8d86.chunk.js",
+    "static/js/3.421a8d86.chunk.js.map": "/dars/static/js/3.421a8d86.chunk.js.map",
+    "index.html": "/dars/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/dars/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.a7b77514.chunk.js.LICENSE.txt": "/dars/static/js/2.a7b77514.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dars/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e636067f.js",
+    "static/js/2.a7b77514.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.435c53d4.chunk.js"
+  ]
+}
