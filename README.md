@@ -1,6 +1,6 @@
 # Project Status:
 
- ![CI/CD](https://github.com/qalandarov/dars/workflows/CI/CD/badge.svg)
+ ![deployment](https://github.com/qalandarov/dars/workflows/deploy/badge.svg)
 
  ---
 
